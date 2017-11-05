@@ -1,0 +1,43 @@
+/* ---------- 共通のスタイル ---------- */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* TODO: 最適化 */
+.container {
+  margin: 0 auto;
+  max-width: 980px;
+  padding: 0 30px;
+}
+
+/* ---------- header ---------- */
+.header {
+  height: 56px;
+  width: 100%;
+  line-height: 56px;
+  border-bottom: 1px solid #f3f1ed;
+  position: fixed;
+  background-color: #fdfbf7;
+  opacity: 0.9;
+}
+
+.header-left {
+  float: left;
+}
+
+.header-right {
+  float: right;
+}
+
+.header-right a {
+  color: #393429;
+  text-decoration: none;
+  margin-left: 16px;
+}
+
+/* ---------- footer ---------- */
+.footer {
+  height: 120px;
+  background-color: #345269;
+}

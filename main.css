@@ -1,40 +1,3 @@
-/* ---------- 共通のスタイル ---------- */
-* {
-  margin: 0;
-  padding: 0;
-}
-
-/* TODO: 最適化 */
-.container {
-  margin: 0 auto;
-  max-width: 1170px;
-  padding: 0 30px;
-}
-
-/* ---------- header ---------- */
-.header {
-  height: 60px;
-  width: 100%;
-  line-height: 60px;
-  box-shadow: 0 3px 5px #e1e8e9;
-  position: fixed;
-  background-color: #ffffff;
-  opacity: 0.8;
-}
-
-.header-left {
-  float: left;
-}
-
-.header-right {
-  float: right;
-}
-
-.header-right li {
-  float: left;
-  list-style: none;
-}
-
 /* ---------- main ---------- */
 .main {
   padding: 140px 0 100px;
@@ -101,10 +64,4 @@
   border-radius: 3px;
   text-decoration: none;
   font-size: 18px;
-}
-
-/* ---------- footer ---------- */
-.footer {
-  height: 120px;
-  background-color: #4872a8;
 }
