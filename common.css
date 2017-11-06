@@ -39,4 +39,19 @@
 .footer {
   height: 120px;
   background-color: #2f3a44;
+  color: #e8e8e8;
+}
+
+.footer-left {
+  float: left;
+  margin: 20px 0;
+}
+
+.footer-left p {
+  margin-bottom: 8px;
+}
+
+.footer-right {
+  float: right;
+  padding-top: 60px;
 }
