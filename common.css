@@ -16,10 +16,9 @@
   height: 56px;
   width: 100%;
   line-height: 56px;
-  border-bottom: 1px solid #f3f1ed;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.12);
   position: fixed;
-  background-color: #fdfbf7;
-  opacity: 0.9;
+  background-color: #fff;
 }
 
 .header-left {
@@ -31,7 +30,7 @@
 }
 
 .header-right a {
-  color: #393429;
+  color: #3a3c40;
   text-decoration: none;
   margin-left: 16px;
 }
@@ -39,5 +38,5 @@
 /* ---------- footer ---------- */
 .footer {
   height: 120px;
-  background-color: #345269;
+  background-color: #2f3a44;
 }

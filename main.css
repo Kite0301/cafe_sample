@@ -3,13 +3,13 @@
   text-align: center;
   background-image: url("images/cafe2-2.png");
   background-size: cover;
-  color: #e8e8e8;
+  color: #f1f1f1;
 }
 
 /* TODO: remove */
 .main-bg {
   padding: 140px 0 100px;
-  background-color: rgba(107, 61, 28, 0.55);
+  background-color: rgba(116, 117, 121, 0.45);
 }
 
 .main-title {
@@ -29,6 +29,7 @@
 .menus {
   padding: 84px 0;
   height: 440px;
+  color: #3a3c40;
 }
 
 .menus-left {
@@ -61,7 +62,7 @@
   box-shadow: 1px 1px 4px #b7b7b7;
   border-radius: 7px;
   padding: 28px 44px;
-  background-color: #f5f0e9;
+  background-color: #f1f3f5;
 }
 
 .menu-card-image {
