@@ -1,0 +1,25 @@
+.contact {
+  padding: 140px 0 100px;
+}
+
+.contact-title {
+  margin-bottom: 25px;
+  padding-bottom: 2px;
+  border-bottom: 1px solid #a5a5a5;
+  color: #333;
+}
+
+.contact-description {
+  color: #333;
+}
+
+.contact-form {
+}
+
+.contact-form h4 {
+  margin-top: 10px;
+}
+
+.contact-form textarea {
+  margin-top: 5px;
+}
