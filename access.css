@@ -1,0 +1,17 @@
+.access {
+  padding: 95px 0 60px;
+  color: #3a3c40;
+}
+
+.access-title {
+  margin-bottom: 15px;
+}
+
+table {
+  margin-bottom: 30px;
+  border-collapse: collapse;
+}
+
+td {
+  padding: 5px 10px;
+}
